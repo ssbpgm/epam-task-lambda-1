@@ -1,0 +1,8 @@
+.DS_Store
+
+.syndicate
+logs/
+
+task01/.syndicate-config-dev/syndicate.yml
+task01/.syndicate-config-dev/syndicate_aliases.yml
+task01/.syndicate-config-dev/logs/
